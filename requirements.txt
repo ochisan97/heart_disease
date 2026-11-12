@@ -1,0 +1,8 @@
+Streamlit>=1.30
+NumPy==1.26.4
+Pandas==3.0.6
+Scikit-learn==1.9.1
+Joblib==1.6.0
+protobuf==3.20.*
+setuptools
+wheel
